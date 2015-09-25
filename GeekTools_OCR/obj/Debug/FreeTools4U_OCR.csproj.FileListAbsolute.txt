@@ -1,0 +1,13 @@
+c:\users\bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\FreeTools4U-OCR.dll
+c:\users\bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\FreeTools4U-OCR.pdb
+c:\users\bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\obj\Debug\FreeTools4U-OCR.dll
+c:\users\bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\obj\Debug\FreeTools4U-OCR.pdb
+c:\users\bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\FreeTools4U-OCR.dll.config
+c:\users\bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\Antlr3.Runtime.dll
+c:\users\bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\Newtonsoft.Json.dll
+c:\users\bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\System.Web.Optimization.dll
+c:\users\bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\WebGrease.dll
+c:\users\bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\Antlr3.Runtime.pdb
+c:\users\bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\Newtonsoft.Json.xml
+c:\users\bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\System.Web.Optimization.xml

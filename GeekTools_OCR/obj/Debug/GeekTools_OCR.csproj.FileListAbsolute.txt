@@ -1,0 +1,41 @@
+C:\Users\Bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\FreeTools4U-OCR.dll.config
+C:\Users\Bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\FreeTools4U-OCR.dll
+C:\Users\Bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\FreeTools4U-OCR.pdb
+C:\Users\Bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\System.Web.Optimization.dll
+C:\Users\Bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\WebGrease.dll
+C:\Users\Bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\bin\Debug\System.Web.Optimization.xml
+C:\Users\Bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\obj\Debug\GeekTools_OCR.csprojResolveAssemblyReference.cache
+C:\Users\Bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\obj\Debug\FreeTools4U-OCR.dll
+C:\Users\Bala\documents\visual studio 2012\Projects\FreeTools4U\FreeTools4U-OCR\obj\Debug\FreeTools4U-OCR.pdb
+C:\Users\Bala\Documents\Visual Studio 2012\Projects\GeekTools\GeekTools_OCR\bin\Debug\FreeTools4U-OCR.dll.config
+C:\Users\Bala\Documents\Visual Studio 2012\Projects\GeekTools\GeekTools_OCR\bin\Debug\FreeTools4U-OCR.dll
+C:\Users\Bala\Documents\Visual Studio 2012\Projects\GeekTools\GeekTools_OCR\bin\Debug\FreeTools4U-OCR.pdb
+C:\Users\Bala\Documents\Visual Studio 2012\Projects\GeekTools\GeekTools_OCR\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Bala\Documents\Visual Studio 2012\Projects\GeekTools\GeekTools_OCR\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Bala\Documents\Visual Studio 2012\Projects\GeekTools\GeekTools_OCR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bala\Documents\Visual Studio 2012\Projects\GeekTools\GeekTools_OCR\bin\Debug\System.Web.Optimization.dll
+C:\Users\Bala\Documents\Visual Studio 2012\Projects\GeekTools\GeekTools_OCR\bin\Debug\WebGrease.dll
+C:\Users\Bala\Documents\Visual Studio 2012\Projects\GeekTools\GeekTools_OCR\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Bala\Documents\Visual Studio 2012\Projects\GeekTools\GeekTools_OCR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bala\Documents\Visual Studio 2012\Projects\GeekTools\GeekTools_OCR\bin\Debug\System.Web.Optimization.xml
+C:\Users\Bala\Documents\Visual Studio 2012\Projects\GeekTools\GeekTools_OCR\obj\Debug\GeekTools_OCR.csprojResolveAssemblyReference.cache
+C:\Users\Bala\Documents\Visual Studio 2012\Projects\GeekTools\GeekTools_OCR\obj\Debug\FreeTools4U-OCR.dll
+C:\Users\Bala\Documents\Visual Studio 2012\Projects\GeekTools\GeekTools_OCR\obj\Debug\FreeTools4U-OCR.pdb
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\FreeTools4U-OCR.dll.config
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\FreeTools4U-OCR.dll
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\FreeTools4U-OCR.pdb
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\Antlr3.Runtime.dll
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\Newtonsoft.Json.dll
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\System.Web.Optimization.dll
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\WebGrease.dll
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\Antlr3.Runtime.pdb
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\Newtonsoft.Json.xml
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\System.Web.Optimization.xml
+F:\GeekTools\GeekTools\GeekTools_OCR\obj\Debug\FreeTools4U-OCR.dll
+F:\GeekTools\GeekTools\GeekTools_OCR\obj\Debug\FreeTools4U-OCR.pdb
