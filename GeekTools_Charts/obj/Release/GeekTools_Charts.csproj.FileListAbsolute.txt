@@ -1,0 +1,14 @@
+F:\GeekTools\GeekTools\GeekTools_Charts\bin\Release\FreeTools4U_Charts.dll.config
+F:\GeekTools\GeekTools\GeekTools_Charts\bin\Release\FreeTools4U_Charts.dll
+F:\GeekTools\GeekTools\GeekTools_Charts\bin\Release\FreeTools4U_Charts.pdb
+F:\GeekTools\GeekTools\GeekTools_Charts\bin\Release\Antlr3.Runtime.dll
+F:\GeekTools\GeekTools\GeekTools_Charts\bin\Release\Microsoft.Web.Infrastructure.dll
+F:\GeekTools\GeekTools\GeekTools_Charts\bin\Release\Newtonsoft.Json.dll
+F:\GeekTools\GeekTools\GeekTools_Charts\bin\Release\System.Web.Optimization.dll
+F:\GeekTools\GeekTools\GeekTools_Charts\bin\Release\WebGrease.dll
+F:\GeekTools\GeekTools\GeekTools_Charts\bin\Release\Antlr3.Runtime.pdb
+F:\GeekTools\GeekTools\GeekTools_Charts\bin\Release\Newtonsoft.Json.xml
+F:\GeekTools\GeekTools\GeekTools_Charts\bin\Release\System.Web.Optimization.xml
+F:\GeekTools\GeekTools\GeekTools_Charts\obj\Release\GeekTools_Charts.csprojResolveAssemblyReference.cache
+F:\GeekTools\GeekTools\GeekTools_Charts\obj\Release\FreeTools4U_Charts.dll
+F:\GeekTools\GeekTools\GeekTools_Charts\obj\Release\FreeTools4U_Charts.pdb

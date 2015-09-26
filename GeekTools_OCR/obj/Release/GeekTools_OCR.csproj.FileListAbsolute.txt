@@ -1,0 +1,14 @@
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Release\FreeTools4U-OCR.dll.config
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Release\FreeTools4U-OCR.dll
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Release\FreeTools4U-OCR.pdb
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Release\Antlr3.Runtime.dll
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Release\Microsoft.Web.Infrastructure.dll
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Release\Newtonsoft.Json.dll
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Release\System.Web.Optimization.dll
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Release\WebGrease.dll
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Release\Antlr3.Runtime.pdb
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Release\Newtonsoft.Json.xml
+F:\GeekTools\GeekTools\GeekTools_OCR\bin\Release\System.Web.Optimization.xml
+F:\GeekTools\GeekTools\GeekTools_OCR\obj\Release\GeekTools_OCR.csprojResolveAssemblyReference.cache
+F:\GeekTools\GeekTools\GeekTools_OCR\obj\Release\FreeTools4U-OCR.dll
+F:\GeekTools\GeekTools\GeekTools_OCR\obj\Release\FreeTools4U-OCR.pdb
