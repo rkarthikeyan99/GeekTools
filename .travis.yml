@@ -1,10 +1,10 @@
 language: csharp
-solution: ./src/GeekTools.sln
+solution: GeekTools.sln
 
 install:
   - sudo apt-get install nunit-console
-  - nuget restore ./src/GeekTools.sln
+  - nuget restore GeekTools.sln
 
 script:
-  - xbuild ./src/GeekTools.sln
-  - nunit-console ./src/GeekToolsTest/bin/Debug/GeekToolsTest.dll
+  - xbuild GeekTools.sln
+  - nunit-console GeekToolsTest/bin/Release/GeekToolsTest.dll
