@@ -1,0 +1,7 @@
+F:\GeekTools\GeekTools\GeekToolsTest\bin\Debug\GeekToolsTest.dll
+F:\GeekTools\GeekTools\GeekToolsTest\bin\Debug\GeekToolsTest.pdb
+F:\GeekTools\GeekTools\GeekToolsTest\bin\Debug\nunit.framework.dll
+F:\GeekTools\GeekTools\GeekToolsTest\bin\Debug\nunit.framework.xml
+F:\GeekTools\GeekTools\GeekToolsTest\obj\Debug\GeekToolsTest.csprojResolveAssemblyReference.cache
+F:\GeekTools\GeekTools\GeekToolsTest\obj\Debug\GeekToolsTest.dll
+F:\GeekTools\GeekTools\GeekToolsTest\obj\Debug\GeekToolsTest.pdb
