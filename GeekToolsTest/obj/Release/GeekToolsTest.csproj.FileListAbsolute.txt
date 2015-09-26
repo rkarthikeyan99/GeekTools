@@ -11,4 +11,3 @@ F:\GeekTools\GeekTools\GeekToolsTest\bin\Release\nunit.framework.xml
 F:\GeekTools\GeekTools\GeekToolsTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 F:\GeekTools\GeekTools\GeekToolsTest\obj\Release\GeekToolsTest.dll
 F:\GeekTools\GeekTools\GeekToolsTest\obj\Release\GeekToolsTest.pdb
-F:\GeekTools\GeekTools\GeekToolsTest\obj\Release\GeekToolsTest.csprojResolveAssemblyReference.cache
