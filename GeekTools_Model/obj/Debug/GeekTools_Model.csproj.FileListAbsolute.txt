@@ -37,6 +37,5 @@ F:\GeekTools\GeekTools\GeekTools_Model\bin\Debug\WebGrease.dll
 F:\GeekTools\GeekTools\GeekTools_Model\bin\Debug\Antlr3.Runtime.pdb
 F:\GeekTools\GeekTools\GeekTools_Model\bin\Debug\Newtonsoft.Json.xml
 F:\GeekTools\GeekTools\GeekTools_Model\bin\Debug\System.Web.Optimization.xml
-F:\GeekTools\GeekTools\GeekTools_Model\obj\Debug\GeekTools_Model.csprojResolveAssemblyReference.cache
 F:\GeekTools\GeekTools\GeekTools_Model\obj\Debug\FreeTools4UModel.dll
 F:\GeekTools\GeekTools\GeekTools_Model\obj\Debug\FreeTools4UModel.pdb

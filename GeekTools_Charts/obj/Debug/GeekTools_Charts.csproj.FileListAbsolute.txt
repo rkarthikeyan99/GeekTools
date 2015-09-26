@@ -37,6 +37,5 @@ F:\GeekTools\GeekTools\GeekTools_Charts\bin\Debug\WebGrease.dll
 F:\GeekTools\GeekTools\GeekTools_Charts\bin\Debug\Antlr3.Runtime.pdb
 F:\GeekTools\GeekTools\GeekTools_Charts\bin\Debug\Newtonsoft.Json.xml
 F:\GeekTools\GeekTools\GeekTools_Charts\bin\Debug\System.Web.Optimization.xml
-F:\GeekTools\GeekTools\GeekTools_Charts\obj\Debug\GeekTools_Charts.csprojResolveAssemblyReference.cache
 F:\GeekTools\GeekTools\GeekTools_Charts\obj\Debug\FreeTools4U_Charts.dll
 F:\GeekTools\GeekTools\GeekTools_Charts\obj\Debug\FreeTools4U_Charts.pdb

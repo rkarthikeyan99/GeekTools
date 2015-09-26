@@ -37,6 +37,5 @@ F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\WebGrease.dll
 F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\Antlr3.Runtime.pdb
 F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\Newtonsoft.Json.xml
 F:\GeekTools\GeekTools\GeekTools_OCR\bin\Debug\System.Web.Optimization.xml
-F:\GeekTools\GeekTools\GeekTools_OCR\obj\Debug\GeekTools_OCR.csprojResolveAssemblyReference.cache
 F:\GeekTools\GeekTools\GeekTools_OCR\obj\Debug\FreeTools4U-OCR.dll
 F:\GeekTools\GeekTools\GeekTools_OCR\obj\Debug\FreeTools4U-OCR.pdb
