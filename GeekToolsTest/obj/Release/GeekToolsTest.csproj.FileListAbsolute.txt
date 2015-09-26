@@ -1,7 +1,14 @@
 F:\GeekTools\GeekTools\GeekToolsTest\bin\Release\GeekToolsTest.dll
 F:\GeekTools\GeekTools\GeekToolsTest\bin\Release\GeekToolsTest.pdb
+F:\GeekTools\GeekTools\GeekToolsTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\GeekTools\GeekTools\GeekToolsTest\bin\Release\nunit.core.dll
+F:\GeekTools\GeekTools\GeekToolsTest\bin\Release\nunit.core.interfaces.dll
 F:\GeekTools\GeekTools\GeekToolsTest\bin\Release\nunit.framework.dll
+F:\GeekTools\GeekTools\GeekToolsTest\bin\Release\nunit.util.dll
+F:\GeekTools\GeekTools\GeekToolsTest\bin\Release\NUnit.VisualStudio.TestAdapter.dll
+F:\GeekTools\GeekTools\GeekToolsTest\bin\Release\System.dll
 F:\GeekTools\GeekTools\GeekToolsTest\bin\Release\nunit.framework.xml
-F:\GeekTools\GeekTools\GeekToolsTest\obj\Release\GeekToolsTest.csprojResolveAssemblyReference.cache
+F:\GeekTools\GeekTools\GeekToolsTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 F:\GeekTools\GeekTools\GeekToolsTest\obj\Release\GeekToolsTest.dll
 F:\GeekTools\GeekTools\GeekToolsTest\obj\Release\GeekToolsTest.pdb
+F:\GeekTools\GeekTools\GeekToolsTest\obj\Release\GeekToolsTest.csprojResolveAssemblyReference.cache
