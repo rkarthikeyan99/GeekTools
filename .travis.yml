@@ -6,3 +6,4 @@ before_script:
   - nuget restore GeekTools.sln
 after_script:
   - nunit-console GeekToolsTest/bin/Release/GeekToolsTest.dll
+sudo: false
