@@ -13,6 +13,7 @@ namespace GeekToolsTest
         [Test]
         public void PositiveTest()
         {
+            //Sample test project
             int x = 7;
             int y = 7;
             Assert.AreEqual(x, y);
