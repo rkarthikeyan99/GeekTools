@@ -8,3 +8,11 @@ install:
 script:
   - xbuild GeekTools.sln
   - nunit-console GeekToolsTest/bin/Release/GeekToolsTest.dll
+deploy:
+   edge: true
+   provider: cloudfoundry
+   username: r_karthikeyan2003@yahoo.com
+   password: september2015
+   api: https://api.run.pivotal.io
+   organization: myawesomeorganization
+   space: staging
