@@ -14,5 +14,5 @@ deploy:
    username: r_karthikeyan2003@yahoo.com
    password: september2015
    api: https://api.run.pivotal.io
-   organization: myawesomeorganization
+   organization: GeekTools
    space: staging
