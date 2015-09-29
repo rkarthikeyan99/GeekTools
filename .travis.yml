@@ -15,4 +15,4 @@ deploy:
    password: september2015
    api: https://api.run.pivotal.io
    organization: GeekTools
-   space: staging
+   space: staging  
